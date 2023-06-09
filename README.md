@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CORVUS047
+- 👀 I’m interested in anything Music, tech, or code
+- 🌱 I’m currently learning HTML, JS, CSS
+- 📫 How to reach me TRAVIS.MCNAIR01@gmail.com
