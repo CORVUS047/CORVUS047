@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CORVUS047
-- 👀 I’m interested in anything Music, tech, or code
-- 🌱 I’m currently learning HTML, JS, CSS
+- 👀 I’m interested in anything Music, tactical, tech, or code
+- 🌱 I’m currently learning HTML, JS, CSS, and C++
 - 📫 Reach me at TRAVIS.MCNAIR01@gmail.com
