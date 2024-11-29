@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @CORVUS047
-- 👀 I’m interested in anything Music, tactical, tech, and cyber sec
-- 🌱 I’m currently learning HTML, JS, CSS, and C++
-- 📫 Reach me at TRAVIS.MCNAIR01@gmail.com
+- 👋 Hi, I’m Travis!
+- 👀 I’m interested in anything music, tactical, tech, and cyber sec
+- 🌱 I’m currently learning HTML, CSS, and C++
+- 📫 Reach me at blameless_in_my_time@proton.me
+- 󱙴 I use arch btw
