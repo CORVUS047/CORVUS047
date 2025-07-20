@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Travis!
 - 👀 I’m interested in anything music, tactical, tech, and cyber sec
-- 🪖 HTML, CSS, and Rust supremacist 
+- 🪖 HTML, CSS, and Rust
 - 📫 Reach me at blameless_in_my_time@proton.me
 - 󱙴 I use arch btw
